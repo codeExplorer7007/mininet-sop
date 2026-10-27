@@ -1,0 +1,5 @@
+run1: median 211 ms, max 893 ms
+run2: median 282 ms, max 1195 ms
+run3: median 217 ms, max 1244 ms
+run4: median 207 ms, max 702 ms
+run5: median 260 ms, max 1024 ms
