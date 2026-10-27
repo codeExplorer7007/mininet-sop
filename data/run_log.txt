@@ -1,0 +1,20 @@
+[done] icmp_run1
+[done] tcp_run1
+[done] udp_run1
+=== run 1 of 5 finished
+[done] icmp_run2
+[done] tcp_run2
+[done] udp_run2
+=== run 2 of 5 finished
+[done] icmp_run3
+[done] tcp_run3
+[done] udp_run3
+=== run 3 of 5 finished
+[done] icmp_run4
+[done] tcp_run4
+[done] udp_run4
+=== run 4 of 5 finished
+[done] icmp_run5
+[done] tcp_run5
+[done] udp_run5
+=== run 5 of 5 finished

@@ -1,0 +1,4 @@
+traffic,packets_mean,packets_std,mean_size_mean,mean_size_std,mean_iat_ms_mean,mean_iat_ms_std,duration_s_mean,duration_s_std,bytes_per_s_mean,bytes_per_s_std
+icmp,100,0.0,98,0.0,306.226,49.429,30.317,4.894,330.6,57.505
+tcp,3825.6,435.866,2786.76,12.491,3.049,0.488,11.501,0.651,931418.2,134821.862
+udp,4318.6,0.894,1489.7,0.0,2.384,0.077,10.292,0.333,625549.6,19474.049
